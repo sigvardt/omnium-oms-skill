@@ -1,0 +1,9 @@
+{
+  "name": "omnium-oms-skill",
+  "version": "0.1.0",
+  "description": "Omnium OMS platform reference — API endpoints, data models, integration patterns, and domain knowledge for the cloud-based Order Management System. Covers orders, carts, customers (B2C/B2B), products, inventory, pricing, promotions, purchase orders, stores, and notifications.",
+  "author": {
+    "name": "NovaCare AS"
+  },
+  "keywords": ["omnium", "oms", "order-management", "e-commerce", "api"]
+}
